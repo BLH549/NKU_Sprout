@@ -1,0 +1,9 @@
+jittor 
+torch 
+opencv-python 
+pillow 
+numpy 
+scipy 
+scikit-image 
+tqdm 
+matplotlib
