@@ -1,0 +1,68 @@
+成功加载预训练模型。
+>>> 正在为模型参数注入标准差为 0.03 的高斯噪声...
+>>> 噪声注入完成。
+[train] 加载数据集: 1892 张图片
+[val] 加载数据集: 211 张图片
+
+--- 训练前初始评估 ---
+注入噪声后的初始 PSNR: 16.6060 dB
+Epoch [1] Loss: 0.052871
+Epoch [1] Loss: 0.001642
+Epoch [1] Loss: 0.000385
+Epoch [1] Loss: 0.000381
+Epoch [1] Loss: 0.000582
+Epoch [1] 验证集 PSNR: 33.5134 dB (提升: 16.9074)
+Epoch [2] Loss: 0.000446
+Epoch [2] Loss: 0.000420
+Epoch [2] Loss: 0.000334
+Epoch [2] Loss: 0.000300
+Epoch [2] Loss: 0.000357
+Epoch [2] 验证集 PSNR: 33.8479 dB (提升: 17.2419)
+Epoch [3] Loss: 0.000485
+Epoch [3] Loss: 0.000234
+Epoch [3] Loss: 0.000440
+Epoch [3] Loss: 0.000430
+Epoch [3] Loss: 0.000302
+Epoch [3] 验证集 PSNR: 33.9966 dB (提升: 17.3906)
+Epoch [4] Loss: 0.000440
+Epoch [4] Loss: 0.000579
+Epoch [4] Loss: 0.000295
+Epoch [4] Loss: 0.000392
+Epoch [4] Loss: 0.000356
+Epoch [4] 验证集 PSNR: 34.0572 dB (提升: 17.4512)
+Epoch [5] Loss: 0.000291
+Epoch [5] Loss: 0.000356
+Epoch [5] Loss: 0.000827
+Epoch [5] Loss: 0.000453
+Epoch [5] Loss: 0.000442
+Epoch [5] 验证集 PSNR: 34.1017 dB (提升: 17.4957)
+Epoch [6] Loss: 0.000408
+Epoch [6] Loss: 0.000408
+Epoch [6] Loss: 0.000311
+Epoch [6] Loss: 0.000686
+Epoch [6] Loss: 0.000164
+Epoch [6] 验证集 PSNR: 34.1409 dB (提升: 17.5349)
+Epoch [7] Loss: 0.000191
+Epoch [7] Loss: 0.000317
+Epoch [7] Loss: 0.000602
+Epoch [7] Loss: 0.000526
+Epoch [7] Loss: 0.000309
+Epoch [7] 验证集 PSNR: 34.1906 dB (提升: 17.5847)
+Epoch [8] Loss: 0.000211
+Epoch [8] Loss: 0.000308
+Epoch [8] Loss: 0.000328
+Epoch [8] Loss: 0.000230
+Epoch [8] Loss: 0.000510
+Epoch [8] 验证集 PSNR: 34.1541 dB (提升: 17.5482)
+Epoch [9] Loss: 0.000565
+Epoch [9] Loss: 0.000624
+Epoch [9] Loss: 0.000321
+Epoch [9] Loss: 0.000832
+Epoch [9] Loss: 0.000516
+Epoch [9] 验证集 PSNR: 34.2097 dB (提升: 17.6037)
+Epoch [10] Loss: 0.000288
+Epoch [10] Loss: 0.000334
+Epoch [10] Loss: 0.000497
+Epoch [10] Loss: 0.000770
+Epoch [10] Loss: 0.000362
+Epoch [10] 验证集 PSNR: 34.2240 dB (提升: 17.6181)

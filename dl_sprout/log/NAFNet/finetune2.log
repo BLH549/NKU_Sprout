@@ -1,0 +1,39 @@
+成功加载预训练模型。
+>>> 正在为模型参数注入标准差为 0.02 的高斯噪声...
+>>> 噪声注入完成。
+[train] 加载数据集: 1892 张图片
+[val] 加载数据集: 211 张图片
+
+--- 训练前初始评估 ---
+注入噪声后的初始 PSNR: 24.3307 dB
+Epoch [1] Loss: 0.006519
+Epoch [1] Loss: 0.000819
+Epoch [1] Loss: 0.000206
+Epoch [1] Loss: 0.000540
+Epoch [1] Loss: 0.000456
+Epoch [1] 验证集 PSNR: 34.0544 dB (提升: 9.7238)
+Epoch [2] Loss: 0.000518
+Epoch [2] Loss: 0.000540
+Epoch [2] Loss: 0.000397
+Epoch [2] Loss: 0.000171
+Epoch [2] Loss: 0.000540
+Epoch [2] 验证集 PSNR: 34.1910 dB (提升: 9.8604)
+Epoch [3] Loss: 0.000458
+Epoch [3] Loss: 0.000180
+Epoch [3] Loss: 0.000378
+Epoch [3] Loss: 0.000905
+Epoch [3] Loss: 0.000492
+Epoch [3] 验证集 PSNR: 34.2453 dB (提升: 9.9146)
+Epoch [4] Loss: 0.000184
+Epoch [4] Loss: 0.000362
+Epoch [4] Loss: 0.000241
+Epoch [4] Loss: 0.000523
+Epoch [4] Loss: 0.000382
+Epoch [4] 验证集 PSNR: 34.2831 dB (提升: 9.9525)
+Epoch [5] Loss: 0.000371
+Epoch [5] Loss: 0.000262
+Epoch [5] Loss: 0.000536
+Epoch [5] Loss: 0.000500
+Epoch [5] Loss: 0.000251
+Epoch [5] 验证集 PSNR: 34.2974 dB (提升: 9.9667)
+Epoch [6] Loss: 0.000389

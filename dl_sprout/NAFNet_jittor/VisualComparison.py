@@ -19,7 +19,7 @@ def run_comparison():
     img_path = os.path.join(current_dir, 'test_img', 'test.png')
     
     torch_weights = os.path.join(current_dir, 'saved_models', 'NAFNet-GoPro-width32.pth')
-    jittor_weights = os.path.join(current_dir, 'saved_models', 'jt_NAFNet.pkl')
+    jittor_weights = os.path.join(current_dir, 'training_results', 'NAFNet_recovered_best.pkl')
 
     # --- 2. 初始化并加载 PyTorch 模型 ---
     print("正在加载 PyTorch 模型...")

@@ -1,0 +1,86 @@
+使用设备: cuda
+模型将保存到: /home/liu/projects/dl-sprout/AODNet-Based-Image-Haze-Removal/saved_models
+Populating train/val lists...
+Total unique keys: 1449
+Train keys: 1304, Val keys: 145
+Total training images: 24478
+Total validation images: 2778
+Total training examples: 24478
+每个 epoch 的总批次数: 765
+   EPOCH 00 | Batch [100/765] (13.1%) | Current Loss: 0.018763
+   EPOCH 00 | Batch [200/765] (26.1%) | Current Loss: 0.020271
+   EPOCH 00 | Batch [300/765] (39.2%) | Current Loss: 0.011136
+   EPOCH 00 | Batch [400/765] (52.3%) | Current Loss: 0.015351
+   EPOCH 00 | Batch [500/765] (65.4%) | Current Loss: 0.017522
+   EPOCH 00 | Batch [600/765] (78.4%) | Current Loss: 0.015190
+   EPOCH 00 | Batch [700/765] (91.5%) | Current Loss: 0.018005
+=====================================================
+EPOCH : 00  Avg Loss : 0.022
+=====================================================
+   EPOCH 01 | Batch [100/765] (13.1%) | Current Loss: 0.013644
+   EPOCH 01 | Batch [200/765] (26.1%) | Current Loss: 0.012345
+   EPOCH 01 | Batch [300/765] (39.2%) | Current Loss: 0.017234
+   EPOCH 01 | Batch [400/765] (52.3%) | Current Loss: 0.013106
+   EPOCH 01 | Batch [500/765] (65.4%) | Current Loss: 0.012982
+   EPOCH 01 | Batch [600/765] (78.4%) | Current Loss: 0.014561
+   EPOCH 01 | Batch [700/765] (91.5%) | Current Loss: 0.012658
+=====================================================
+EPOCH : 01  Avg Loss : 0.015
+=====================================================
+   EPOCH 02 | Batch [100/765] (13.1%) | Current Loss: 0.012330
+   EPOCH 02 | Batch [200/765] (26.1%) | Current Loss: 0.016786
+   EPOCH 02 | Batch [300/765] (39.2%) | Current Loss: 0.015873
+   EPOCH 02 | Batch [400/765] (52.3%) | Current Loss: 0.015885
+   EPOCH 02 | Batch [500/765] (65.4%) | Current Loss: 0.016348
+   EPOCH 02 | Batch [600/765] (78.4%) | Current Loss: 0.011062
+   EPOCH 02 | Batch [700/765] (91.5%) | Current Loss: 0.013320
+=====================================================
+EPOCH : 02  Avg Loss : 0.015
+=====================================================
+   EPOCH 03 | Batch [100/765] (13.1%) | Current Loss: 0.017289
+   EPOCH 03 | Batch [200/765] (26.1%) | Current Loss: 0.013822
+   EPOCH 03 | Batch [300/765] (39.2%) | Current Loss: 0.013151
+   EPOCH 03 | Batch [400/765] (52.3%) | Current Loss: 0.013846
+   EPOCH 03 | Batch [500/765] (65.4%) | Current Loss: 0.015766
+   EPOCH 03 | Batch [600/765] (78.4%) | Current Loss: 0.014196
+   EPOCH 03 | Batch [700/765] (91.5%) | Current Loss: 0.010640
+=====================================================
+EPOCH : 03  Avg Loss : 0.015
+=====================================================
+   EPOCH 04 | Batch [100/765] (13.1%) | Current Loss: 0.013479
+   EPOCH 04 | Batch [200/765] (26.1%) | Current Loss: 0.012629
+   EPOCH 04 | Batch [300/765] (39.2%) | Current Loss: 0.012393
+   EPOCH 04 | Batch [400/765] (52.3%) | Current Loss: 0.008906
+   EPOCH 04 | Batch [500/765] (65.4%) | Current Loss: 0.017382
+   EPOCH 04 | Batch [600/765] (78.4%) | Current Loss: 0.014478
+   EPOCH 04 | Batch [700/765] (91.5%) | Current Loss: 0.014221
+=====================================================
+EPOCH : 04  Avg Loss : 0.015
+=====================================================
+模型权重已保存: /home/liu/projects/dl-sprout/AODNet-Based-Image-Haze-Removal/saved_models/MyDehazeNet_torch_epoch_5.pth
+   EPOCH 05 | Batch [100/765] (13.1%) | Current Loss: 0.013010
+   EPOCH 05 | Batch [200/765] (26.1%) | Current Loss: 0.014687
+   EPOCH 05 | Batch [300/765] (39.2%) | Current Loss: 0.014923
+   EPOCH 05 | Batch [400/765] (52.3%) | Current Loss: 0.014555
+   EPOCH 05 | Batch [500/765] (65.4%) | Current Loss: 0.011534
+   EPOCH 05 | Batch [600/765] (78.4%) | Current Loss: 0.010189
+   EPOCH 05 | Batch [700/765] (91.5%) | Current Loss: 0.016928
+=====================================================
+EPOCH : 05  Avg Loss : 0.015
+=====================================================
+   EPOCH 06 | Batch [100/765] (13.1%) | Current Loss: 0.013324
+   EPOCH 06 | Batch [200/765] (26.1%) | Current Loss: 0.017238
+   EPOCH 06 | Batch [300/765] (39.2%) | Current Loss: 0.014172
+   EPOCH 06 | Batch [400/765] (52.3%) | Current Loss: 0.018975
+   EPOCH 06 | Batch [500/765] (65.4%) | Current Loss: 0.010419
+   EPOCH 06 | Batch [600/765] (78.4%) | Current Loss: 0.014641
+   EPOCH 06 | Batch [700/765] (91.5%) | Current Loss: 0.013249
+=====================================================
+EPOCH : 06  Avg Loss : 0.015
+=====================================================
+   EPOCH 07 | Batch [100/765] (13.1%) | Current Loss: 0.014477
+   EPOCH 07 | Batch [200/765] (26.1%) | Current Loss: 0.018585
+   EPOCH 07 | Batch [300/765] (39.2%) | Current Loss: 0.012231
+   EPOCH 07 | Batch [400/765] (52.3%) | Current Loss: 0.011067
+   EPOCH 07 | Batch [500/765] (65.4%) | Current Loss: 0.014743
+   EPOCH 07 | Batch [600/765] (78.4%) | Current Loss: 0.011164
