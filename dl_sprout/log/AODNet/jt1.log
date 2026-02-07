@@ -1,0 +1,100 @@
+Starting training...
+Populating train/val lists...
+Total unique keys: 1449
+Train keys: 1304, Val keys: 145
+Total training images: 24559
+Total validation images: 2697
+Total training images: 24559
+Total validation images: 2697
+Training loader batches: 24559
+EPOCH 0000 | Process 13.0% | Current Loss: 0.020555
+EPOCH 0000 | Process 26.1% | Current Loss: 0.013285
+EPOCH 0000 | Process 39.1% | Current Loss: 0.015461
+EPOCH 0000 | Process 52.2% | Current Loss: 0.021276
+EPOCH 0000 | Process 65.2% | Current Loss: 0.013565
+EPOCH 0000 | Process 78.2% | Current Loss: 0.017620
+EPOCH 0000 | Process 91.3% | Current Loss: 0.012815
+EPOCH: 0000  LOSS: 0.0255
+Model saved to /home/liu/projects/dl-sprout/AODNet-jittor/saved_models/MyDehazeNet_jt_epoch_0.pth
+EPOCH 0001 | Process 13.0% | Current Loss: 0.011611
+EPOCH 0001 | Process 26.1% | Current Loss: 0.012404
+EPOCH 0001 | Process 39.1% | Current Loss: 0.016665
+EPOCH 0001 | Process 52.2% | Current Loss: 0.012592
+EPOCH 0001 | Process 65.2% | Current Loss: 0.014502
+EPOCH 0001 | Process 78.2% | Current Loss: 0.014056
+EPOCH 0001 | Process 91.3% | Current Loss: 0.014618
+EPOCH: 0001  LOSS: 0.0152
+Model saved to /home/liu/projects/dl-sprout/AODNet-jittor/saved_models/MyDehazeNet_jt_epoch_1.pth
+EPOCH 0002 | Process 13.0% | Current Loss: 0.012319
+EPOCH 0002 | Process 26.1% | Current Loss: 0.014294
+EPOCH 0002 | Process 39.1% | Current Loss: 0.013758
+EPOCH 0002 | Process 52.2% | Current Loss: 0.013397
+EPOCH 0002 | Process 65.2% | Current Loss: 0.013642
+EPOCH 0002 | Process 78.2% | Current Loss: 0.015576
+EPOCH 0002 | Process 91.3% | Current Loss: 0.017411
+EPOCH: 0002  LOSS: 0.0151
+Model saved to /home/liu/projects/dl-sprout/AODNet-jittor/saved_models/MyDehazeNet_jt_epoch_2.pth
+EPOCH 0003 | Process 13.0% | Current Loss: 0.014237
+EPOCH 0003 | Process 26.1% | Current Loss: 0.020648
+EPOCH 0003 | Process 39.1% | Current Loss: 0.016743
+EPOCH 0003 | Process 52.2% | Current Loss: 0.012955
+EPOCH 0003 | Process 65.2% | Current Loss: 0.015523
+EPOCH 0003 | Process 78.2% | Current Loss: 0.015890
+EPOCH 0003 | Process 91.3% | Current Loss: 0.012807
+EPOCH: 0003  LOSS: 0.0149
+Model saved to /home/liu/projects/dl-sprout/AODNet-jittor/saved_models/MyDehazeNet_jt_epoch_3.pth
+EPOCH 0004 | Process 13.0% | Current Loss: 0.012540
+EPOCH 0004 | Process 26.1% | Current Loss: 0.014208
+EPOCH 0004 | Process 39.1% | Current Loss: 0.016331
+EPOCH 0004 | Process 52.2% | Current Loss: 0.013243
+EPOCH 0004 | Process 65.2% | Current Loss: 0.012993
+EPOCH 0004 | Process 78.2% | Current Loss: 0.014364
+EPOCH 0004 | Process 91.3% | Current Loss: 0.011520
+EPOCH: 0004  LOSS: 0.0148
+Model saved to /home/liu/projects/dl-sprout/AODNet-jittor/saved_models/MyDehazeNet_jt_epoch_4.pth
+EPOCH 0005 | Process 13.0% | Current Loss: 0.013959
+EPOCH 0005 | Process 26.1% | Current Loss: 0.013782
+EPOCH 0005 | Process 39.1% | Current Loss: 0.014532
+EPOCH 0005 | Process 52.2% | Current Loss: 0.013575
+EPOCH 0005 | Process 65.2% | Current Loss: 0.016271
+EPOCH 0005 | Process 78.2% | Current Loss: 0.017294
+EPOCH 0005 | Process 91.3% | Current Loss: 0.011381
+EPOCH: 0005  LOSS: 0.0148
+Model saved to /home/liu/projects/dl-sprout/AODNet-jittor/saved_models/MyDehazeNet_jt_epoch_5.pth
+EPOCH 0006 | Process 13.0% | Current Loss: 0.013334
+EPOCH 0006 | Process 26.1% | Current Loss: 0.015246
+EPOCH 0006 | Process 39.1% | Current Loss: 0.015774
+EPOCH 0006 | Process 52.2% | Current Loss: 0.016275
+EPOCH 0006 | Process 65.2% | Current Loss: 0.013601
+EPOCH 0006 | Process 78.2% | Current Loss: 0.014838
+EPOCH 0006 | Process 91.3% | Current Loss: 0.014454
+EPOCH: 0006  LOSS: 0.0148
+Model saved to /home/liu/projects/dl-sprout/AODNet-jittor/saved_models/MyDehazeNet_jt_epoch_6.pth
+EPOCH 0007 | Process 13.0% | Current Loss: 0.017009
+EPOCH 0007 | Process 26.1% | Current Loss: 0.016098
+EPOCH 0007 | Process 39.1% | Current Loss: 0.021753
+EPOCH 0007 | Process 52.2% | Current Loss: 0.019068
+EPOCH 0007 | Process 65.2% | Current Loss: 0.013962
+EPOCH 0007 | Process 78.2% | Current Loss: 0.012131
+EPOCH 0007 | Process 91.3% | Current Loss: 0.012285
+EPOCH: 0007  LOSS: 0.0147
+Model saved to /home/liu/projects/dl-sprout/AODNet-jittor/saved_models/MyDehazeNet_jt_epoch_7.pth
+EPOCH 0008 | Process 13.0% | Current Loss: 0.011672
+EPOCH 0008 | Process 26.1% | Current Loss: 0.015112
+EPOCH 0008 | Process 39.1% | Current Loss: 0.014371
+EPOCH 0008 | Process 52.2% | Current Loss: 0.013552
+EPOCH 0008 | Process 65.2% | Current Loss: 0.013164
+EPOCH 0008 | Process 78.2% | Current Loss: 0.013293
+EPOCH 0008 | Process 91.3% | Current Loss: 0.016478
+EPOCH: 0008  LOSS: 0.0147
+Model saved to /home/liu/projects/dl-sprout/AODNet-jittor/saved_models/MyDehazeNet_jt_epoch_8.pth
+EPOCH 0009 | Process 13.0% | Current Loss: 0.011226
+EPOCH 0009 | Process 26.1% | Current Loss: 0.011408
+EPOCH 0009 | Process 39.1% | Current Loss: 0.016173
+EPOCH 0009 | Process 52.2% | Current Loss: 0.016346
+EPOCH 0009 | Process 65.2% | Current Loss: 0.017066
+EPOCH 0009 | Process 78.2% | Current Loss: 0.018633
+EPOCH 0009 | Process 91.3% | Current Loss: 0.013596
+EPOCH: 0009  LOSS: 0.0147
+Model saved to /home/liu/projects/dl-sprout/AODNet-jittor/saved_models/MyDehazeNet_jt_epoch_9.pth
+Training finished.

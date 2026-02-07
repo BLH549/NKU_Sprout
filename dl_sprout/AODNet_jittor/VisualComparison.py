@@ -81,7 +81,7 @@ if __name__ == '__main__':
     
     test_images_dir = os.path.join(current_dir, 'test_images')
     torch_model_path = os.path.join(current_dir, 'saved_models', 'dehaze_net_epoch_17_jt.pth')
-    jt_model_path = os.path.join(current_dir, 'saved_models', 'MyDehazeNet_jt_epoch_9.pth')   
+    jt_model_path = os.path.join(current_dir, 'saved_models', 'AODNet_jt_best.pth')   
     
     # 设置要显示的图片数量n
     n = 2  
