@@ -83,7 +83,6 @@ if __name__ == '__main__':
     
     # 路径配置
     test_images_dir = os.path.join(current_dir, 'test_images')
-    # 使用你训练出的 Best 模型
     model_path = os.path.join(current_dir, 'saved_models', 'AODNet_jt_best.pth')
     output_dir = os.path.join(current_dir, 'output_results')
 
